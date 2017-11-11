@@ -134,14 +134,18 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ('/index.html', 'Home', 'icon-home'),
+        ("/archive.html", "Archive", 'icon-folder-open-alt'),
+        ("/categories/", "Tags",'icon-tags'),
+        ("/rss.xml", "RSS feed",'icon-rss'),
+        ('https://nu.nl', 'About me', 'icon-user'),
+        ('https://twitter.com/getnikola', 'My Twitter', 'icon-twitter'),
+        ('https://github.com/getnikola', 'My Github', 'icon-github'),
     ),
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "zen"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
