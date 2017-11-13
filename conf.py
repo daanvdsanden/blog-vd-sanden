@@ -138,7 +138,7 @@ NAVIGATION_LINKS = {
         ("/archive.html", "Archive", 'icon-folder-open-alt'),
         ("/categories/", "Tags",'icon-tags'),
         ("/rss.xml", "RSS feed",'icon-rss'),
-        ('https://linkedin.com/daanvdsanden', 'My Linkedin', 'icon-linkedin'),
+        ('https://linkedin.com/in/daanvdsanden', 'My Linkedin', 'icon-linkedin'),
         ('https://twitter.com/daanvdsanden', 'My Twitter', 'icon-twitter'),
         ('https://github.com/daanvdsanden', 'My Github', 'icon-github'),
     ),
