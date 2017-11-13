@@ -1,4 +1,0 @@
-Sitemap: https://blog.vd-sanden.net/sitemapindex.xml
-
-User-Agent: *
-Host: blog.vd-sanden.net
